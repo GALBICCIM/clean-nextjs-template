@@ -20,13 +20,13 @@ npm i
 
 3. Configure Prettier by creating a `.prettierrc` file in the project root:
 
-```json
+```json5
 // .prettierrc
 
 {
-	// Add other settings as needed (e.g., tabWidth, printWidth)
-	"plugins": ["prettier-plugin-tailwindcss"],
-	"tailwindStylesheet": "./src/app/globals.css"
+  // Add other settings as needed (e.g., tabWidth, printWidth)
+  plugins: ["prettier-plugin-tailwindcss"],
+  tailwindStylesheet: "./src/app/globals.css",
 }
 ```
 
