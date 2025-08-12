@@ -1,6 +1,6 @@
 # Next.js Tailwind CSS Starter
 
-This project provides a ready-made starter template for **Next.js** developers, pre-configured with **Tailwind CSS** for seamless styling.
+This project provides a ready-made starter template for [**Next.js**](https://nextjs.org/docs) developers, pre-configured with [**Tailwind CSS**](https://tailwindcss.com/docs/) for seamless styling.
 
 ## Installation
 
